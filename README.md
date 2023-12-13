@@ -1,5 +1,4 @@
 # PII_Fuzzy_Logic
-FuzzyLogic
 В даній роботі було створено застосунок для оцінки якості обраного маршруту
 на основі 4 головних критеріїв
 ![image](https://github.com/unlugir/PII_Fuzzy_Logic/assets/55494717/eb91f0c0-7d05-492b-a823-f8a487166d67)

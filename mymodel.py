@@ -56,10 +56,10 @@ input_lvs = {
             "X": (0, 10.1, 0.01),
             "name": "RoadQuality",
             "terms": {
-                "very bad": ("trapmf", 0, 0, 0.5, 1),
-                "bad": ("trapmf", 0.5, 2, 3, 5),
-                "medium": ("trimf", 4, 5, 7,),
-                "good": ("trapmf", 6, 7, 10, 10),
+                "very bad": ("trapmf", 0, 1, 2, 3),
+                "bad": ("trapmf", 2, 4, 5, 7),
+                "medium": ("trimf", 6, 7, 8,),
+                "good": ("trapmf", 8, 9, 10, 10),
             }
         }
              ],
